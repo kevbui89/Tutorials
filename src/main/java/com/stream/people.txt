@@ -1,0 +1,27 @@
+Alice
+52
+New York
+Brian
+25
+Chicago
+Chelsea
+19
+London
+David
+44
+Paris
+Kevin
+31
+Montreal
+Erica
+32
+Berlin
+Jake
+26
+Montreal
+Zachary
+27
+Montreal
+Francisco
+64
+Las Vegas
