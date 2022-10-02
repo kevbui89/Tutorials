@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Concurrency" />
         <module name="Tutorial" />
+        <module name="Tutorials" />
       </profile>
     </annotationProcessing>
   </component>

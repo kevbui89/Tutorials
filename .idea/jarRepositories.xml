@@ -4,7 +4,17 @@
     <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Central Repository" />
+      <option name="url" value="https://nexus.devops.jive.com/repository/jive-all" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
       <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repo.devops.jive.com-jive" />
+      <option name="name" value="repo.devops.jive.com-jive" />
+      <option name="url" value="https://nexus.devops.jive.com/repository/jive-all" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="central" />
