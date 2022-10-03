@@ -161,8 +161,6 @@ Rsrc/main/java/com/googleguiceproviders/injectintoprovider/DiscountGuiceModule.j
 Ssrc/main/java/com/googleguiceproviders/injectintoprovider/DiscountableProvider.java,8/4/84228c672b75a5b2d62f147f062b6841236f77c4
 ~
 Nsrc/main/java/com/googleguiceproviders/injectintoprovider/CheckoutService.java,a/7/a72cec47e42db7fe548f14c362cc21ba06edf3c2
-v
-Fsrc/main/java/com/googleguiceproviders/customfactory/ShoppingCart.java,8/b/8b506697e9aa7cbcbd473bace6972a4a068f9363
 y
 Isrc/main/java/com/googleguiceproviders/customfactory/CheckoutService.java,7/f/7f23f6f8527aa43637eacfec4accbc0bb886b843
 y
@@ -171,8 +169,6 @@ v
 Fsrc/main/java/com/googleguiceproviders/customfactory/Discountable.java,a/a/aaa42641626c3b99f6e5cd426c39a97e48b41b2d
 }
 Msrc/main/java/com/googleguiceproviders/customfactory/DiscountGuiceModule.java,7/7/77ffea7df77367191f3078ec98dcb457960b4240
-z
-Jsrc/main/java/com/googleguiceproviders/customfactory/BasicApplication.java,8/8/88ebabe3369a9037cb3c113a1137af1b2c87ec23
 }
 Msrc/main/java/com/googleguiceproviders/customfactory/CartDiscountFactory.java,2/a/2a9ab06349e8ee16ec72bd4cc4298eaa8f4cb788
 {
