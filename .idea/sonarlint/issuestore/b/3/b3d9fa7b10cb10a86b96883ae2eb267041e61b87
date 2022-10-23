@@ -1,0 +1,14 @@
+
+a
+java:S2583"DChange this condition so that it does not always evaluate to "false"(†ÁÔ²8¡¬§å¸0
+S
+java:S1612"8Replace this lambda with method reference 'result::add'.(¥¦¸–ùÿÿÿÿ
+P
+java:S1612:":Replace this lambda with method reference 'NewMath::sqrt'.(±ÑŽÂ
+M
+java:S1612;"7Replace this lambda with method reference 'Stream::of'.(»ßÈ›
+P
+java:S1612<":Replace this lambda with method reference 'Stream::empty'.(™ÐÅ½
+h
+java:S6204C"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+Q	java:S125F"<This block of commented-out lines of code should be removed.(šÆÚÔ
