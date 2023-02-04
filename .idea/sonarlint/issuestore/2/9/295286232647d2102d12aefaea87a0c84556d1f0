@@ -1,0 +1,9 @@
+
+a
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(–Ã…¿8óÆáÖ¹0
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÉêÍ˜8»ØèÖ¹0
+V
+java:S1612l"9Replace this lambda with method reference 'HashMap::new'.(ÊØá©8¨ÛØ¹0
+N
+java:S1602n",Remove useless curly braces around statement(ÒÌâ–øÿÿÿÿ8”ÇáÖ¹0

@@ -1,0 +1,22 @@
+
+Z
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(¢×Û×
+_
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(ëÌÖ­üÿÿÿÿ
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÉêÍ˜
+Q	java:S125#"<This block of commented-out lines of code should be removed.(òêòù
+h
+java:S6204B"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ÕãëÌ
+Z
+java:S1612J"DReplace this lambda with method reference 'scrabbleWords::contains'.(éêÙ
+r
+java:S4276z"\Refactor this code to use the more specialised Functional Interface 'ToLongFunction<String>'(Ø¿ö£
+C
+java:S1905‚"'Remove this unnecessary cast to "long".(§³®üÿÿÿÿ
+[
+java:S1612³"DReplace this lambda with method reference 'scrabbleWords::contains'.(éêÙ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+r
+java:S1128"\Remove this unused import 'net.bytebuddy.description.field.FieldDescription.InGenericShape'.(Æ

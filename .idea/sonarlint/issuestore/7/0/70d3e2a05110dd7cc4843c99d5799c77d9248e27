@@ -1,0 +1,33 @@
+
+b
+java:S1854ì"?Remove this useless assignment to local variable "collectEven".(ÅËš‹øÿÿÿÿ8ÆìûÂµ0
+t
+java:S6204)"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(øáÌ‡ÿÿÿÿÿ8˜ãşã¸0
+o
+java:S62040"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8®ãşã¸0
+t
+java:S6204N"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ñîàøÿÿÿÿ8Ñãşã¸0
+H
+java:S2201V"+The return value of "collect" must be used.(ª™¨¹8¿íûÂµ0
+o
+java:S6204V"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8âãşã¸0
+>
+java:S3864U"!Remove this use of "Stream.peek".(ßˆ±ö8ÁíûÂµ0
+>
+java:S3864T"!Remove this use of "Stream.peek".(äûİô8ÈíûÂµ0
+o
+java:S6204h"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ìãşã¸0
+o
+java:S6204n"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8îãşã¸0
+u
+java:S6204ƒ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(àìÊûûÿÿÿÿ8üãşã¸0
+p
+java:S6204¢"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ƒäşã¸0
+p
+java:S6204¥"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Šäşã¸0
+u
+java:S6204±"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(³‡Ïåúÿÿÿÿ8“äşã¸0
+p
+java:S6204î"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8•åşã¸0
+S
+java:S1481ì"0Remove this unused "collectEven" local variable.(ÅËš‹øÿÿÿÿ8†ïûÂµ0
