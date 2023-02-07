@@ -1,0 +1,21 @@
+package com.interfaces;
+
+import com.abstraction.ClientEngagement;
+
+public class RoyaltyShareCalculator implements RevenueCalculator
+{
+  public static final double STANDARD_ROYALTY_PERCENTAGE = 0.15;
+
+  private final double royaltyPercentage;
+
+  public RoyaltyShareCalculator(final double royaltyPercentage)
+  {
+    this.royaltyPercentage = royaltyPercentage;
+  }
+
+  @Override
+  public double calculate(final ClientEngagement clientEngagement)
+  {
+    return royaltyPercentage * clientEngagement.getAnticipatedRevenue();
+  }
+}
