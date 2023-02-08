@@ -1,0 +1,14 @@
+
+R
+java:S1854"7Remove this useless assignment to local variable "num".(¯ÁÕÄÿÿÿÿÿ
+v
+java:S3923
+"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ËÄÜñúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(”ëŠˆÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Å“éıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(€ë“è
+C
+java:S1481"(Remove this unused "num" local variable.(¯ÁÕÄÿÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(‚ÒÍ)
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8ÕÀ÷Åá0
